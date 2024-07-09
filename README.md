@@ -18,6 +18,13 @@ Pada script `kmean.py` akan menjalankan klusterisasi dalam beberapa kali tergant
 apa yang kita masukan pada bagian
 `k = 7`
 
+Untuk menjalankan program pastikan anda sudah menginstall library yang dibutuhkan sebagai berikut :
+`pip install opencv-python numpy matplotlip scikit-learn`
+
+setelah itu untuk merunning silahkan ketik `python kmean.py`
+
+nanti akan muncul gambar original lalu anda bisa close untuk menampilkan iterasi gambar yang sudah terclusterisasi waktu tunggu sekitar 1 menit untuk proses cluterisasi setelah anda close gambar yang pertama
+
 Berikut Foto original sebelum diklusterisasi
 
 
@@ -59,6 +66,17 @@ Berikut hasil foto yang sudah mengalami perubahan sebanyak 7 kali ini bergantung
 ![cluster_7](/hasil_clusterisasi/Cluster_7.png)
 
 Untuk melakukan clusterisasi membutuhkan waktu untuk prosesnya jadi untuk memunculkan hasilnya butuh waktu sekitar 1 menit atau lebih ini bergantung kepada kapasitas device kita. semaking tinggi spesifikasi device semakin cepat dia dalam memprosesnya.
+
+
+
+#### Link Tugas UTS pengolahan Citra
+
+Github :
+[https://github.com/adamdwidev/uts-pengolahan-citra](https://github.com/adamdwidev/uts-pengolahan-citra)
+
+Hasil Streamlit :
+[https://adamwebdev.streamlit.app/tugas](https://adamwebdev.streamlit.app/tugas)
+
 
 Selesai untuk nilai K  anda bisa memasukan sesuai keinginan anda.
 
