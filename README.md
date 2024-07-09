@@ -68,6 +68,9 @@ Berikut hasil foto yang sudah mengalami perubahan sebanyak 7 kali ini bergantung
 Untuk melakukan clusterisasi membutuhkan waktu untuk prosesnya jadi untuk memunculkan hasilnya butuh waktu sekitar 1 menit atau lebih ini bergantung kepada kapasitas device kita. semaking tinggi spesifikasi device semakin cepat dia dalam memprosesnya.
 
 
+Selesai untuk nilai K  anda bisa memasukan sesuai keinginan anda.
+
+Selamat mencoba, semoga bermanfaat
 
 #### Link Tugas UTS pengolahan Citra
 
@@ -77,8 +80,6 @@ Github :
 Hasil Streamlit :
 [https://adamwebdev.streamlit.app/tugas](https://adamwebdev.streamlit.app/tugas)
 
-
-Selesai untuk nilai K  anda bisa memasukan sesuai keinginan anda.
 
 
 
