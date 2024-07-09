@@ -1,5 +1,5 @@
 # Klusterisasi Gambar menggunakan KMeans
-#### AdamDwiMaulana 312210242
+#### AdamDwiMaulana 312210242 TI22B1
 
 Kali ini kita akan klusterisasi sebuah foto atau gambar dengan algoritma KMeans.
 
